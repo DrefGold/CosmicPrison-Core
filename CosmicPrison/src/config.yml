@@ -1,0 +1,23 @@
+#Plugin prefix#
+prefix: '&c&lCosmic&6&lPrison '
+
+
+#JoinEvent messages
+
+WelcomeMessage: '&7Welcome in &c&lCosmic&6&lPrison&7, &a%player%'
+
+WelcomeBackMessage: '&7Welcome back, &a%player%'
+
+#AntiCurse
+
+badwords:
+- 'shit'
+- 'pussy'
+- 'dickhead'
+- 'fuck'
+- 'cazzo'
+- 'merda'
+
+AntiCurseMess: '&7Please do not &ccurse &7or &cinsult'
+
+InsufficientToIron: '&cDevi scavare almeno 100 coal ore prima di poterlo fare'
